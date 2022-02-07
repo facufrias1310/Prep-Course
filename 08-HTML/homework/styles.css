@@ -1,7 +1,7 @@
 h1{
-    color:aqua
+    color: red
 }
-#img {
+img {
     width: 400px;
 
 }
@@ -10,7 +10,7 @@ h1{
     width: 500px;
     background-color:  blueviolet;
     padding: 50px;
-    border: 1rem solid;
+    border: 10px solid blue;
 
 }
 #spainId { 
