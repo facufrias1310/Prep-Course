@@ -1,0 +1,1 @@
+Array: Es una lista de todos los jugetes que tengas, este se define var array = [], y adentro de los [] vas agregando la lista de jugetes.
